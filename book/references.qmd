@@ -1,4 +1,4 @@
-# References
+# References {.unnumbered}
 
 - [Kobujutsu Studiemateriaal](pdf/Kobujutsu.pdf): pdf with overview of YouTube channels and links to videos embedded in this wiki.
 

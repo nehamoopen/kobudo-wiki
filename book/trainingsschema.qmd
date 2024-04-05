@@ -1,4 +1,4 @@
-# Trainingsschema
+# Trainingsschema {.unnumbered}
 
 ![](images/2024-04-05-trainingsschema.jpg)
 

@@ -1,5 +1,7 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto book.
+This _wiki_ contains resources related to the study of Ryukyu Kobujutsu (Okinawan Kobudo).
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Kobudo is an armed martial art built on Karate foundations using weapons such as the bo (staff), sai (small tridents), and tonfa (baton) among others.
+
+This book is built with Quarto and GitHub. To learn more about Quarto books visit <https://quarto.org/docs/books>.
