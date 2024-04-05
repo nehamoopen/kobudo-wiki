@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: ../docs
+
+book:
+  title: "Kobudo Wiki"
+  author: "Neha Moopen"
+  date: last-modified
+  search: true
+  chapters:
+    - index.qmd
+    - trainingsschema.qmd
+    - bo.qmd
+    - sai.qmd
+    - tonfa.qmd
+    - kama.qmd
+    - resources.qmd
+    - references.qmd
+
+  repo-url: https://github.com/nehamoopen/kobudo-wiki
+  repo-actions: [edit]
+
+  sidebar:
+    logo: images/kobudo-icon.PNG
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
