@@ -4,90 +4,179 @@
     "href": "index.html",
     "title": "Kobudo Wiki",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Welcome\nHello! This wiki contains resources related to the study of Ryukyu Kobujutsu (Okinawan Kobudo).\nKobudo is an armed martial art built on Karate foundations using weapons such as the bo (staff), sai (small tridents), and tonfa (baton) among others.\nThis book is built with Quarto and GitHub. To learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "trainingsschema.html",
+    "href": "trainingsschema.html",
+    "title": "Trainingsschema",
+    "section": "",
+    "text": "Bo",
+    "crumbs": [
+      "Trainingsschema"
+    ]
   },
   {
     "objectID": "trainingsschema.html#bo",
     "href": "trainingsschema.html#bo",
-    "title": "1  Trainingsschema",
-    "section": "1.1 Bo",
-    "text": "1.1 Bo\n\nKata’s: konchiki, shushi no kon sho, dai\n5 Comprehensive kumites\n15 basics (voorheen doorlopende kumite)\n3 basis kihon: kamai, uke, seme (met en zonder partner)\n10 basis kumite"
+    "title": "Trainingsschema",
+    "section": "",
+    "text": "Kata’s: konchiki, shushi no kon sho, dai\n5 Comprehensive kumites\n15 basics (voorheen doorlopende kumite)\n3 basis kihon: kamai, uke, seme (met en zonder partner)\n10 basis kumite",
+    "crumbs": [
+      "Trainingsschema"
+    ]
   },
   {
     "objectID": "trainingsschema.html#sai",
     "href": "trainingsschema.html#sai",
-    "title": "1  Trainingsschema",
-    "section": "1.2 Sai",
-    "text": "1.2 Sai\n\nKata: Tsukenshitahaku\n4 Comprehensive kumites\nRenzoku waza kumite\n10 basis kumite"
+    "title": "Trainingsschema",
+    "section": "Sai",
+    "text": "Sai\n\nKata: Tsukenshitahaku\n4 Comprehensive kumites\nRenzoku waza kumite\n10 basis kumite",
+    "crumbs": [
+      "Trainingsschema"
+    ]
   },
   {
     "objectID": "trainingsschema.html#tonfa",
     "href": "trainingsschema.html#tonfa",
-    "title": "1  Trainingsschema",
-    "section": "1.3 Tonfa",
-    "text": "1.3 Tonfa\n\nKata: Tonfa no hamahiga\nRenzoku waza kumite\n10 basis kumite"
+    "title": "Trainingsschema",
+    "section": "Tonfa",
+    "text": "Tonfa\n\nKata: Tonfa no hamahiga\nRenzoku waza kumite\n10 basis kumite",
+    "crumbs": [
+      "Trainingsschema"
+    ]
   },
   {
     "objectID": "trainingsschema.html#kama",
     "href": "trainingsschema.html#kama",
-    "title": "1  Trainingsschema",
-    "section": "1.4 Kama",
-    "text": "1.4 Kama\n\nKata: Tozan\nRenzoku waza kumite\n10 basis kumite"
+    "title": "Trainingsschema",
+    "section": "Kama",
+    "text": "Kama\n\nKata: Tozan\nRenzoku waza kumite\n10 basis kumite",
+    "crumbs": [
+      "Trainingsschema"
+    ]
+  },
+  {
+    "objectID": "bo.html",
+    "href": "bo.html",
+    "title": "1  Bo",
+    "section": "",
+    "text": "1.1 Kumite",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bo</span>"
+    ]
   },
   {
     "objectID": "bo.html#kumite",
     "href": "bo.html#kumite",
-    "title": "2  Bo",
-    "section": "2.1 Kumite",
-    "text": "2.1 Kumite\n\n2.1.1 15 basis kumite (doorlopende)\n\n\n\n\n2.1.2 Bunkai\n\n\n\n\n2.1.3 Comprehensive Kumite\n\n2.1.3.1 1\n\n\n\n\n2.1.3.2 2\n\n\n\n\n2.1.3.3 3\n\n\n\n\n2.1.3.4 4\n\n\n\n\n2.1.3.5 5"
+    "title": "1  Bo",
+    "section": "",
+    "text": "1.1.1 15 basis kumite (doorlopende)\n\n\n\n\n1.1.2 Bunkai\n\n\n\n\n1.1.3 Comprehensive Kumite\n\n1.1.3.1 1\n\n\n\n\n1.1.3.2 2\n\n\n\n\n1.1.3.3 3\n\n\n\n\n1.1.3.4 4\n\n\n\n\n1.1.3.5 5",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bo</span>"
+    ]
   },
   {
     "objectID": "bo.html#kata",
     "href": "bo.html#kata",
-    "title": "2  Bo",
-    "section": "2.2 Kata",
-    "text": "2.2 Kata\n\n2.2.1 Shuji no kon Sho\n\n\n\n\n2.2.2 Shuji no kon Dai"
+    "title": "1  Bo",
+    "section": "1.2 Kata",
+    "text": "1.2 Kata\n\n1.2.1 Shuji no kon Sho\n\n\n\n\n1.2.2 Shuji no kon Dai",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bo</span>"
+    ]
+  },
+  {
+    "objectID": "sai.html",
+    "href": "sai.html",
+    "title": "2  Sai",
+    "section": "",
+    "text": "2.1 Kumite",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Sai</span>"
+    ]
   },
   {
     "objectID": "sai.html#kumite",
     "href": "sai.html#kumite",
-    "title": "3  Sai",
-    "section": "3.1 Kumite",
-    "text": "3.1 Kumite\n\n3.1.1 Renzoku kumite\n\n\n\n\n3.1.2 Sai Bo kumite"
+    "title": "2  Sai",
+    "section": "",
+    "text": "2.1.1 Renzoku kumite\n\n\n\n\n2.1.2 Sai Bo kumite",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Sai</span>"
+    ]
   },
   {
     "objectID": "sai.html#kata",
     "href": "sai.html#kata",
-    "title": "3  Sai",
-    "section": "3.2 Kata",
-    "text": "3.2 Kata\n\n3.2.1 Tsukenshitahaku no Sai"
+    "title": "2  Sai",
+    "section": "2.2 Kata",
+    "text": "2.2 Kata\n\n2.2.1 Tsukenshitahaku no Sai",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Sai</span>"
+    ]
+  },
+  {
+    "objectID": "tonfa.html",
+    "href": "tonfa.html",
+    "title": "3  Tonfa",
+    "section": "",
+    "text": "3.1 Kata",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Tonfa</span>"
+    ]
   },
   {
     "objectID": "tonfa.html#kata",
     "href": "tonfa.html#kata",
-    "title": "4  Tonfa",
-    "section": "4.1 Kata",
-    "text": "4.1 Kata\n\n4.1.1 Hamahiga no Tonfa"
+    "title": "3  Tonfa",
+    "section": "",
+    "text": "3.1.1 Hamahiga no Tonfa",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Tonfa</span>"
+    ]
   },
   {
     "objectID": "kama.html",
     "href": "kama.html",
-    "title": "5  Kama",
+    "title": "4  Kama",
     "section": "",
-    "text": "coming soon?"
+    "text": "coming soon?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kama</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "YouTube",
+    "crumbs": [
+      "Resources"
+    ]
   },
   {
     "objectID": "resources.html#youtube",
     "href": "resources.html#youtube",
-    "title": "6  Resources",
-    "section": "6.1 YouTube",
-    "text": "6.1 YouTube\n\nRyukyu Kobujutsu\nWim van de Leur\nMaarten Van Bloois\nannetraam\nDojoSuhari"
+    "title": "Resources",
+    "section": "",
+    "text": "Ryukyu Kobujutsu\nWim van de Leur\nMaarten Van Bloois\nannetraam\nDojoSuhari",
+    "crumbs": [
+      "Resources"
+    ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "7  References",
+    "title": "References",
     "section": "",
-    "text": "Kobujutsu Studiemateriaal: pdf with overview of YouTube channels and links to videos embedded in this wiki."
+    "text": "Kobujutsu Studiemateriaal: pdf with overview of YouTube channels and links to videos embedded in this wiki.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]
