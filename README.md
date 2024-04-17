@@ -1,1 +1,1 @@
-# kobudo-wiki
+# Kobudo Wiki
